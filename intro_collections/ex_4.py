@@ -1,0 +1,1 @@
+#Strings can be treated as sequencies since the characters can be accessed with [index]
